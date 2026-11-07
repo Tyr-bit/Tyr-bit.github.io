@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/0m1s2jyop_dux.css","style"]
+:HL["/_next/static/chunks/2qggetq27j08d.css","style"]
+:HL["/pic/projects/marinemind.png","image"]
+:HL["/pic/projects/sports.png","image"]
+:HL["/pic/projects/hotel.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Wcks9i-KKzH1AnQVnyr6H"}
